@@ -77,5 +77,3 @@ English: This project is under license [MIT](./LICENSE).
 
 Portuguese: Feito com ❤️ por Leonardo Machado 👋🏽 [Entre em contato!](https://www.linkedin.com/in/leonardomancilha/) <br>
 English: Made with ❤️ by Leonardo Machado 👋🏽 [Contact me!](https://www.linkedin.com/in/leonardomancilha/)
-
----
