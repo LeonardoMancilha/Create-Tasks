@@ -25,7 +25,7 @@
 
 ## 💻 Descrição do projeto / Description of the project
 
-<h2>Portuguese</h2> Este é um projeto sobre criação de tarefas e uma coisa legal é que quando você sai do seu navegador suas tarefas são salvas. Criei este site em um curso de JavaScript na Udemy aplicando a lógica de programação javascript. <br>
+<h2>Portuguese</h2> Este é um projeto sobre criação de tarefas e uma coisa legal é que quando você sai do seu navegador suas tarefas são salvas. Criei este site em um curso de JavaScript na Udemy aplicando a lógica de programação em JavaScript. <br>
 
 <h2>English</h2> This is a project about creating tasks and one thing that is nice is that when you leave your browser your tasks are saved. I created this website in a course of JavaScript on Udemy applying the javascript programming logic.
  
